@@ -93,7 +93,7 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
   6. >>> Work Style
 ----------------------------------------------------------------*/
 .ds-work-section{ padding-bottom: 80px; }
-.ds-work-list{ padding-left: 70px; padding-top:40px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; }
+.ds-work-list{ padding-left: 70px; padding-top:40px; padding-right: 70px; padding-bottom: 40px; background-color:#F6F8FA; margin-bottom: 40px; }
 .ds-work-list section{ padding-top: 20px; padding-right: 120px; }
 .ds-work-tilte{ color: #000; font-size: 30px; line-height: 36px; font-weight: 600; margin-bottom: 30px; }
 .ds-work-list p{ font-weight: 300; font-size: 18px; line-height: 30px; }
